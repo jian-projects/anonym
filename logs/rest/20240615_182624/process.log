@@ -1,0 +1,1 @@
+2024-06-15 18:26:28.483 | WARNING  | processor:__init__:30 - epochs: 25, early_stop: 10, batch_size: 32, learning_rate_pre: 0.0003, seed: 1, loss_agl: 1.0, loss_ccl: 1.0, 

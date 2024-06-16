@@ -1,0 +1,51 @@
+2024-06-15 18:39:08.561 | INFO     | processor:__init__:21 - file.plm_dir: /home/Pretrained_Models/
+2024-06-15 18:39:08.561 | INFO     | processor:__init__:21 - file.data_dir: dataset/
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - file.save_dir: checkpoints/rest/
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - file.log: ./logs/rest/
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - file.record: ./records/rest/
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.tasks: ['absa', 'rest']
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.models: [None, 'agl']
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.epochs: 25
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.device: cuda
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.device_ids: [0]
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.do_test: False
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.do_valid: True
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.do_train: True
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.early_stop: 10
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.save_model: 0
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.log_step_rate: 1.0
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.log_step_rate_max: 5
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.seed: 1
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.l2reg: 0.01
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.data_rate: 1.0
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.batch_size: 32
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.warmup_ratio: 0.3
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.weight_decay: 0.001
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.adam_epsilon: 1e-08
+2024-06-15 18:39:08.562 | INFO     | processor:__init__:21 - train.max_grad_norm: 5.0
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - train.learning_rate: 0.0003
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - train.learning_rate_pre: 0.0003
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - train.display: ['epochs', 'early_stop', 'batch_size', 'learning_rate_pre', 'seed', 'loss_agl', 'loss_ccl']
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - train.inference: 1
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - train.wandb: 0
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.name: agl
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.framework: None
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.drop_rate: 0.3
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.epoch_before: False
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.epoch_every: False
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.epoch_after: False
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.scale: large
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.use_adapter: 1
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.loss_agl: 1.0
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.loss_ccl: 1.0
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.plm: /home/Pretrained_Models/deberta-large
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.data_dir: dataset/rest/
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.data: dataset/rest/agl.large
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.baseline: 0
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.tokenizer: None
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - model.optim_sched: ['Adam', 'linear']
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - logger.params: <loguru.logger handlers=[(id=1, level=30, sink=<stdout>), (id=2, level=10, sink='./logs/rest/20240615_183904/params.log'), (id=3, level=10, sink='./logs/rest/20240615_183904/process.log')]>
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:21 - logger.process: <loguru.logger handlers=[(id=1, level=30, sink=<stdout>), (id=2, level=10, sink='./logs/rest/20240615_183904/params.log'), (id=3, level=10, sink='./logs/rest/20240615_183904/process.log')]>
+2024-06-15 18:39:08.563 | INFO     | processor:__init__:22 - 
+ ====================================== 
+

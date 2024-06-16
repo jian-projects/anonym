@@ -1,0 +1,2 @@
+2024-06-15 18:11:32.464 | WARNING  | processor:__init__:30 - epochs: 25, early_stop: 10, batch_size: 32, learning_rate_pre: 0.0003, seed: 1, loss_agl: 1.0, loss_ccl: 1.0, 
+2024-06-15 18:11:41.600 | INFO     | utils_model:on_test_end:152 - test: {"f1": 0.8257, "acc": 0.848, "loss": 0.4507, "epoch": 0.0}

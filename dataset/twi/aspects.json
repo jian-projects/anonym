@@ -1,0 +1,474 @@
+{
+    "jimmy carter": {
+        "count": 112,
+        "description": "'Jimmy Carter' refers to the 39th President of the United States, James Earl Carter Jr., who served from 1977 to 1981."
+    },
+    "britney spears": {
+        "count": 1020,
+        "description": "'Britney Spears' refers to a well-known American singer, songwriter, and actress who gained fame in the late 1990s. She is known for hit songs such as \"Baby One More Time\" and \"Toxic,\" as well as her highly publicized personal life."
+    },
+    "hilary swank": {
+        "count": 76,
+        "description": "Hilary Swank is an actress known for her roles in movies such as \"Million Dollar Baby\" and \"Boys Don't Cry.\""
+    },
+    "wii": {
+        "count": 214,
+        "description": "'Wii' refers to a popular video game console produced by Nintendo."
+    },
+    "google": {
+        "count": 130,
+        "description": "'Google' is a verb that means to search for something on the internet using the Google search engine."
+    },
+    "harry potter": {
+        "count": 360,
+        "description": "\"Harry Potter\" typically refers to a series of fantasy novels written by J.K. Rowling, centered around the character Harry Potter, a young wizard, and his adventures at Hogwarts School of Witchcraft and Wizardry. The series gained immense popularity worldwide and has since expanded into movies, merchandise, and a vast fan community."
+    },
+    "hillary clinton": {
+        "count": 76,
+        "description": "'Hillary Clinton' refers to the former U.S. Secretary of State and Democratic presidential candidate."
+    },
+    "lady gaga": {
+        "count": 205,
+        "description": "\"Lady Gaga\" refers to the stage name of the American singer, songwriter, and actress Stefani Joanne Angelina Germanotta."
+    },
+    "obama": {
+        "count": 133,
+        "description": "'Obama' typically refers to Barack Obama, the 44th President of the United States (2009-2017), who symbolized hope and change for many. The term may also be used to refer to his policies, legacy, or the broader political movement associated with him."
+    },
+    "justin timberlake": {
+        "count": 31,
+        "description": "Justin Timberlake is an American singer-songwriter, actor, and record producer known for hits like \"SexyBack\" and \"Mirrors.\""
+    },
+    "madonna": {
+        "count": 252,
+        "description": "'Madonna' can refer to the famous singer Madonna Louise Ciccone or in a more generic sense, it can refer to a woman who holds a high regard for her appearance and sexuality."
+    },
+    "george bush": {
+        "count": 71,
+        "description": "'George Bush' typically refers to George W. Bush, the 43rd President of the United States."
+    },
+    "perez hilton": {
+        "count": 16,
+        "description": "'Perez Hilton' is a popular gossip and entertainment blogger known for his celebrity news coverage and provocative commentary."
+    },
+    "barack obama": {
+        "count": 245,
+        "description": "Barack Obama is the name of the 44th President of the United States, who served from 2009 to 2017."
+    },
+    "iphone": {
+        "count": 186,
+        "description": "'iPhone' is a proper noun that refers to a series of smartphones designed and marketed by Apple Inc, which run on the iOS operating system."
+    },
+    "nicki minaj": {
+        "count": 48,
+        "description": "'Nicki Minaj' refers to a popular American rapper, singer, and songwriter whose real name is Onika Tanya Maraj. She is known for her distinctive style, energetic performances, and chart-topping hits."
+    },
+    "ipod": {
+        "count": 205,
+        "description": "'iPod' is a brand name for a line of portable media players designed and marketed by Apple Inc. It is used to listen to music, watch videos, and store files."
+    },
+    "charlie sheen": {
+        "count": 96,
+        "description": "\"Charlie Sheen\" refers to the American actor known for his roles in movies and TV shows, as well as for his publicized personal struggles and controversial behavior."
+    },
+    "maradona": {
+        "count": 43,
+        "description": "Maradona refers to Diego Maradona, a legendary Argentine football player widely considered one of the greatest of all time."
+    },
+    "anderson cooper": {
+        "count": 17,
+        "description": "'Anderson Cooper' is a proper noun referring to the American journalist and television personality, known for his work as the anchor of the CNN news program Anderson Cooper 360\u00b0."
+    },
+    "jt": {
+        "count": 4,
+        "description": "'jt' stands for 'just tweeting'. It is often used as a disclaimer when someone tweets a personal opinion or observation, emphasizing that they are simply sharing their thoughts without any particular agenda or intention."
+    },
+    "google wave": {
+        "count": 152,
+        "description": "Google Wave was a communication and collaboration platform developed by Google, combining elements of email, instant messaging, document sharing, and more. It was designed to facilitate real-time, interactive communication and collaboration among users. However, it was discontinued in 2012 due to lack of user adoption."
+    },
+    "psp": {
+        "count": 149,
+        "description": "'psp' can mean different things depending on the context in which it is used, but it is commonly used to refer to Sony's handheld gaming console, the PlayStation Portable."
+    },
+    "sarah palin": {
+        "count": 210,
+        "description": "\"Sarah Palin\" refers to a prominent American politician and former governor of Alaska, known for her conservative views and as the first female Republican vice-presidential candidate in 2008. She is also noted for her outspoken and polarizing public persona."
+    },
+    "shaq": {
+        "count": 5,
+        "description": "\"Shaq\" is a nickname for the basketball player Shaquille O'Neal. It is used to refer to him or to acknowledge his impact on the sport."
+    },
+    "dave matthews": {
+        "count": 9,
+        "description": "'Dave Matthews' often refers to the musician and frontman of the Dave Matthews Band. He is known for his distinctive voice and the band's mix of rock, jazz, and funk music."
+    },
+    "serena williams": {
+        "count": 11,
+        "description": "'Serena Williams' refers to the professional tennis player Serena Jameka Williams."
+    },
+    "russell brand": {
+        "count": 21,
+        "description": "Russell Brand is a British comedian, actor, and activist known for his eccentric personality and controversial opinions on various social and political issues."
+    },
+    "joe biden": {
+        "count": 21,
+        "description": "\"Joe Biden\" refers to the current President of the United States."
+    },
+    "justin bieber": {
+        "count": 155,
+        "description": "'Justin Bieber' refers to a Canadian singer and pop music icon."
+    },
+    "lindsay lohan": {
+        "count": 444,
+        "description": "\"Lindsay Lohan\" refers to the American actress, singer, and media personality of the same name. In general Twitter discourse, it may be used to refer to news or gossip related to her personal life and career."
+    },
+    "bill gates": {
+        "count": 57,
+        "description": "\"Bill Gates\" refers to the co-founder of Microsoft Corporation, a philanthropist, and a prominent figure in technology and business."
+    },
+    "ryan seacrest": {
+        "count": 12,
+        "description": "'Ryan Seacrest' refers to a well-known American television host, radio personality, and producer."
+    },
+    "micheal jackson": {
+        "count": 98,
+        "description": "Michael Jackson was an iconic pop singer, songwriter, and dancer known for his influential music and groundbreaking dance moves. He is often referred to as the \"King of Pop\" and is a cultural and musical legend."
+    },
+    "xbox": {
+        "count": 175,
+        "description": "'Xbox' refers to a popular gaming console made by Microsoft."
+    },
+    "katy perry": {
+        "count": 45,
+        "description": "'Katy Perry' refers to the stage name of a popular American singer, songwriter, and television judge."
+    },
+    "john legend": {
+        "count": 23,
+        "description": "The phrase \"John Legend\" is generally used to refer to the singer, songwriter, and musician John Legend, known for his soulful R&B music and powerful vocals."
+    },
+    "martha stewart": {
+        "count": 27,
+        "description": "'Martha Stewart' refers to the name of an American businesswoman, TV personality, and former CEO of Martha Stewart Living Omnimedia. It has become synonymous with homemaking, cooking, and emphasizing a certain level of perfection in domestic tasks. Additionally, it can also be used to describe a person who has exceptional skills in home management or a style that reflects refinement and sophistication."
+    },
+    "steve jobs": {
+        "count": 110,
+        "description": "\"Steve Jobs\" typically refers to the co-founder of Apple Inc. and a key figure in the development of personal computing and consumer electronics. He was known for his innovative leadership and product design."
+    },
+    "ellen degeneres": {
+        "count": 19,
+        "description": "\"Ellen DeGeneres\" refers to the American comedian, television host, actress, and writer known for her popular talk show \"The Ellen DeGeneres Show\"."
+    },
+    "ipad": {
+        "count": 135,
+        "description": "'iPad' refers to a line of tablet computers designed and marketed by Apple Inc."
+    },
+    "kim kardashian": {
+        "count": 48,
+        "description": "'Kim Kardashian' refers to a reality TV star, businesswoman, and social media influencer known for her public persona, family, and various business ventures."
+    },
+    "mandy moore": {
+        "count": 19,
+        "description": "\"Mandy Moore\" refers to the American actress, singer, and songwriter who has gained popularity through her work in film, television, and music."
+    },
+    "al gore": {
+        "count": 32,
+        "description": "\"Al Gore\" typically refers to Albert Gore Jr., an American politician who served as the 45th vice president of the United States from 1993 to 2001 under President Bill Clinton. He is also known for his environmental activism, particularly regarding climate change, and his efforts to raise awareness about the issue through initiatives like the documentary film \"An Inconvenient Truth.\""
+    },
+    "lakers": {
+        "count": 180,
+        "description": "\"Lakers\" typically refers to the basketball team Los Angeles Lakers, based in Los Angeles, California."
+    },
+    "taylor swift": {
+        "count": 50,
+        "description": "'Taylor Swift' refers to an American singer-songwriter known for her pop and country music, who gained fame for her personal and storytelling lyrics."
+    },
+    "john mccain": {
+        "count": 30,
+        "description": "'John McCain' refers to John Sidney McCain III, an American politician who served as a United States Senator from Arizona. He was also the Republican Party's presidential nominee in the 2008 election. McCain was known for his military service, political career, and his role as a prominent voice in American politics. #JohnMcCain"
+    },
+    "windows 7": {
+        "count": 195,
+        "description": "'Windows 7' refers to the seventh major release of the Microsoft Windows operating system, which was introduced in 2009. It is a version of Windows renowned for its improved performance, user interface, and functionality compared to its predecessor, Windows Vista."
+    },
+    "nicolas cage": {
+        "count": 87,
+        "description": "\"Nicolas Cage\" refers to the famous actor Nicolas Cage known for his diverse film roles and eccentric personality."
+    },
+    "kindle": {
+        "count": 165,
+        "description": "In the context of using it as a verb, \"kindle\" means to ignite or start a fire."
+    },
+    "tiger woods": {
+        "count": 86,
+        "description": "'Tiger Woods' typically refers to the professional golfer Eldrick Tont \"Tiger\" Woods."
+    },
+    "ms dhoni": {
+        "count": 4,
+        "description": "\"MS Dhoni\" refers to Mahendra Singh Dhoni, a former Indian cricketer and one of the most successful captains in the history of Indian cricket. He is also known for his finishing abilities and cool demeanor under pressure."
+    },
+    "alicia keys": {
+        "count": 29,
+        "description": "Alicia Keys is a singer, songwriter, and musician known for her soulful voice and hit songs."
+    },
+    "miley cyrus": {
+        "count": 41,
+        "description": "\"Miley Cyrus\" refers to an American singer, songwriter, and actress known for her music and public image."
+    },
+    "jimmy fallon": {
+        "count": 37,
+        "description": "'Jimmy Fallon' refers to an American comedian, actor, and television host known for hosting \"The Tonight Show Starring Jimmy Fallon\" and his work on \"Saturday Night Live.\""
+    },
+    "demi lovato": {
+        "count": 38,
+        "description": "\"Demi Lovato\" refers to a popular American singer, songwriter, and actress. She's known for her powerful vocals and advocacy for mental health awareness."
+    },
+    "taylorswift": {
+        "count": 4,
+        "description": "\"taylorswift\" refers to the stage name of Taylor Swift, a highly successful American singer-songwriter known for her country and pop music."
+    },
+    "britney": {
+        "count": 19,
+        "description": "In the context of Twitter, 'britney' is commonly used to refer to Britney Spears, an iconic American pop singer and entertainer. It can also be used to mention or discuss anything related to her career, music, or personal life. #BritneySpears #Britney"
+    },
+    "selena gomez": {
+        "count": 51,
+        "description": "\"Selena Gomez\" refers to a well-known American singer, actress, and producer, often associated with pop music and entertainment industry."
+    },
+    "khloe kardashian": {
+        "count": 24,
+        "description": "Khloe Kardashian is a reality TV star, businesswoman, and social media personality known for her appearances on the reality show \"Keeping Up with the Kardashians\" and her various business ventures."
+    },
+    "ashley tisdale": {
+        "count": 15,
+        "description": "Ashley Tisdale is an American actress, singer, and producer known for her roles in Disney Channel's \"High School Musical\" and \"The Suite Life of Zack & Cody.\" She's also pursued a music career and appeared in various films and TV shows."
+    },
+    "shakira": {
+        "count": 21,
+        "description": "'Shakira' refers to the stage name of Colombian singer-songwriter and dancer Shakira, known for her catchy pop hits and unique dance moves."
+    },
+    "soulja boy": {
+        "count": 11,
+        "description": "\"Soulja Boy\" refers to the stage name of the American rapper and producer, DeAndre Cortez Way, known for his hit song \"Crank That (Soulja Boy).\""
+    },
+    "nick cannon": {
+        "count": 17,
+        "description": "\"Nick Cannon\" is the name of an American actor, comedian, rapper, and television host. He's known for his work in various entertainment projects, including hosting gigs on TV shows like \"Wild 'N Out\" and \"America's Got Talent.\""
+    },
+    "oprah": {
+        "count": 15,
+        "description": "'oprah' refers to Oprah Winfrey, an influential American media executive, actress, and philanthropist. She is widely recognized as a television host and the creator of The Oprah Winfrey Show, where she gained immense popularity and fame. 'oprah' is often used as a shorthand reference to her or her impact on popular culture."
+    },
+    "john boehner": {
+        "count": 32,
+        "description": "John Boehner is a former Republican Congressman and Speaker of the United States House of Representatives. In the context of Twitter, it is often used to refer to political dynamics or news related to the Republican party in the US."
+    },
+    "al - anon mtg": {
+        "count": 1,
+        "description": "\"Al-Anon mtg\" stands for an Al-Anon meeting, which is a support group for family and friends of alcoholics."
+    },
+    "ashton kutcher": {
+        "count": 29,
+        "description": "Ashton Kutcher refers to the American actor and entrepreneur, who gained fame for his roles in various TV shows and films. In the context of Twitter, his name may be used to refer to him directly or to the topics or controversies associated with him."
+    },
+    "mc hammer": {
+        "count": 14,
+        "description": "\"MC Hammer\" is a stage name for Stanley Burrell, an American rapper known for hits like \"U Can't Touch This.\" The term can also refer to flashy, flamboyant style or someone who enjoys attention and extravagance."
+    },
+    "arnold schwarzenegger": {
+        "count": 15,
+        "description": "Arnold Schwarzenegger is a famous Austrian-American actor, politician, and former professional bodybuilder."
+    },
+    "paris hilton": {
+        "count": 28,
+        "description": "Paris Hilton refers to an American media personality, socialite, businesswoman, model, and singer, known for her appearances in reality TV shows, her family's hotel business, and her brand of fragrances and fashion accessories."
+    },
+    "snoop dogg": {
+        "count": 17,
+        "description": "Snoop Dogg refers to the stage name of the American rapper, singer, and songwriter Calvin Cordozar Broadus Jr. He is known for his laid-back style, smooth rhymes, and West Coast hip-hop influence."
+    },
+    "tim bresnan": {
+        "count": 2,
+        "description": "\"Tim Bresnan\" refers to a cricketer named Tim Bresnan who has played for the England national team."
+    },
+    "alex rodriguez": {
+        "count": 10,
+        "description": "Alex Rodriguez, often referred to as A-Rod, is a former professional baseball player, primarily known for his time with the Seattle Mariners, Texas Rangers, and New York Yankees. He's considered one of the greatest baseball players of all time, but his career was also marked by controversies, including the use of performance-enhancing drugs."
+    },
+    "mariah carey": {
+        "count": 17,
+        "description": "'Mariah Carey' refers to a renowned American singer, songwriter, and actress known for her five-octave vocal range and chart-topping hits."
+    },
+    "britney sears": {
+        "count": 1,
+        "description": "It seems like you're referring to Britney Spears, an American singer, songwriter, and actress. She rose to fame in the late 1990s and early 2000s with hits like \"Baby One More Time\" and \"Toxic.\" In recent years, she's been in the spotlight due to legal and personal issues surrounding her conservatorship."
+    },
+    "gaga": {
+        "count": 14,
+        "description": "\"Gaga\" typically refers to a state of being infatuated or excessively enthusiastic about something or someone, often to the point of being irrational or irrational. It can also mean someone who is overly eccentric or foolishly infatuated."
+    },
+    "stephen colbert": {
+        "count": 4,
+        "description": "Stephen Colbert is an American comedian, writer, producer, and television host. He is known for his satirical comedy on his shows \"The Colbert Report\" and \"The Late Show with Stephen Colbert.\""
+    },
+    "snoopdogg": {
+        "count": 3,
+        "description": "\"Snoop Dogg\" is a stage name of the American rapper, singer, and actor Calvin Cordozar Broadus Jr. It's a combination of \"Snoop,\" which is a nickname given to him by his mother due to his appearance, and \"Dogg,\" which was inspired by his childhood fascination with the Peanuts character Snoopy."
+    },
+    "nick jonas": {
+        "count": 23,
+        "description": "\"Nick Jonas\" refers to an American singer, songwriter, and actor, known for being a member of the Jonas Brothers band and for his solo music career."
+    },
+    "chelsea handler": {
+        "count": 2,
+        "description": "Chelsea Handler is a popular American comedian, actress, and television host known for her outspoken and irreverent style."
+    },
+    "souljaboy": {
+        "count": 6,
+        "description": "\"Soulja Boy\" typically refers to DeAndre Cortez Way, known professionally as Soulja Boy, an American rapper, record producer, actor, and entrepreneur. He gained fame with his 2007 debut single \"Crank That (Soulja Boy),\" which popularized the \"Crank That\" dance and led to his rise in the hip hop scene. \"Soulja Boy\" can also refer more broadly to the musical and cultural influence he's had, especially in the realm of internet and meme culture."
+    },
+    "conan o'brien": {
+        "count": 2,
+        "description": "\"Conan O'Brien\" refers to an American comedian, writer, producer, and television host known for his late-night talk shows, including \"Late Night with Conan O'Brien\" and \"Conan.\""
+    },
+    "john mayer": {
+        "count": 17,
+        "description": "'John Mayer' refers to the American singer-songwriter and guitarist, John Mayer. He is known for his soulful pop and blues-inspired music, and has achieved considerable commercial success throughout his career."
+    },
+    "oprah winfrey": {
+        "count": 8,
+        "description": "\"Oprah Winfrey\" refers to an influential media mogul, actress, producer, and philanthropist, best known for her talk show, \"The Oprah Winfrey Show,\" which ran from 1986 to 2011. She's also recognized for her advocacy for various causes and her successful multimedia empire."
+    },
+    "johnmayer": {
+        "count": 2,
+        "description": "\"John Mayer\" typically refers to the American singer-songwriter and guitarist, John Mayer. He's known for his soulful voice, blues-inspired guitar playing, and hit songs like \"Your Body Is a Wonderland\" and \"Gravity.\""
+    },
+    "bieber": {
+        "count": 2,
+        "description": "'Bieber' is most commonly used as a shorthand for Canadian pop singer Justin Bieber, who rose to fame during his teenage years in the late 2000s. It is also sometimes used to refer to his fans, known as 'Beliebers.'"
+    },
+    "canon powershot": {
+        "count": 5,
+        "description": "\"Canon PowerShot\" refers to a series of digital cameras manufactured by Canon, known for their compact size, ease of use, and high-quality image capture."
+    },
+    "weird al yankovic": {
+        "count": 4,
+        "description": "\"Weird Al Yankovic\" refers to Alfred Matthew Yankovic, a musician known for his comedic song parodies that often satirize popular culture and current events. He's recognized for his humorous lyrics and unique style, blending elements of pop, rock, and polka music."
+    },
+    "mindflex game": {
+        "count": 1,
+        "description": "'Mindflex Game' refers to a board game that uses brain-computer interface technology, allowing players to control the movement of a small foam ball using their mind."
+    },
+    "hillary": {
+        "count": 5,
+        "description": "\"Hillary\" most commonly refers to Hillary Clinton, the former First Lady of the United States, U.S. Senator, Secretary of State, and Democratic presidential nominee in 2016. In a broader sense, it could also refer to individuals named Hillary or variations thereof."
+    },
+    "weird al": {
+        "count": 5,
+        "description": "\"Weird Al\" refers to \"Weird Al\" Yankovic, a musician and comedian known for his parodies of popular songs. He rewrites the lyrics to humorously mimic the original song, often adding a comedic twist."
+    },
+    "shaquille o'neal": {
+        "count": 3,
+        "description": "\"Shaquille O'Neal\" refers to the retired American professional basketball player of the same name. He is widely regarded as one of the greatest basketball players of all time."
+    },
+    "elizabeth taylor": {
+        "count": 1,
+        "description": "'Elizabeth Taylor' refers to the iconic Hollywood actress who was known for her beauty, talent, and glamorous lifestyle."
+    },
+    "o": {
+        "count": 1,
+        "description": "In the context of Twitter, 'o' often represents a reaction of surprise or shock. It is a shorthand way of expressing astonishment or being taken aback."
+    },
+    "miley": {
+        "count": 2,
+        "description": "In the context of Twitter, 'miley' usually refers to the American singer and actress Miley Cyrus."
+    },
+    "donald trump": {
+        "count": 1,
+        "description": "Donald Trump refers to the 45th President of the United States who served from 2017 to 2021."
+    },
+    "stephen fry": {
+        "count": 1,
+        "description": "'Stephen Fry' refers to the English actor, comedian, and writer, Stephen Fry. He is known for his wit, humor, and intelligence, and has been a prominent figure in British popular culture."
+    },
+    "kevin spacey": {
+        "count": 1,
+        "description": "In the context of Twitter, 'Kevin Spacey' refers to the actor Kevin Spacey, known for his performances in movies and TV shows. However, it can also be used to discuss the controversies surrounding him, such as allegations of sexual misconduct."
+    },
+    "britneyspears": {
+        "count": 1,
+        "description": "'britneyspears' refers to the pop icon, singer, and performer Britney Spears. The term is often used as a hashtag or handle on Twitter to share information, news, and opinions about her."
+    },
+    "justin drew bieber": {
+        "count": 2,
+        "description": "\"Justin Drew Bieber\" is the full name of the Canadian singer, songwriter, and pop sensation known as Justin Bieber."
+    },
+    "barack": {
+        "count": 2,
+        "description": "'Barack' typically refers to Barack Obama, the 44th President of the United States."
+    },
+    "biden": {
+        "count": 4,
+        "description": "\"biden\" typically refers to Joe Biden, the 46th President of the United States, serving from January 20, 2021."
+    },
+    "miley ray cyrus": {
+        "count": 1,
+        "description": "'Miley Ray Cyrus' refers to an American singer, songwriter, and actress best known for her role in the Disney Channel series, Hannah Montana."
+    },
+    "larry king": {
+        "count": 1,
+        "description": "Larry King typically refers to the American television and radio host who passed away in January 2021. It can also refer to his show, \"Larry King Live,\" which ran on CNN for over 25 years. In some contexts, \"Larry King\" may be used as a metaphor or cultural reference for celebrity interviews or talk show hosting."
+    },
+    "albert pujols": {
+        "count": 1,
+        "description": "'Albert Pujols' refers to a professional baseball player named Albert Pujols."
+    },
+    "rev run": {
+        "count": 1,
+        "description": "\"Rev Run\" is a stage name for Joseph Simmons, an American rapper, DJ, and founding member of the hip-hop group Run-D.M.C. \"Rev\" is short for \"Reverend,\" as Simmons is also known for his religious beliefs and role as a minister."
+    },
+    "snoop dog": {
+        "count": 1,
+        "description": "\"Snoop Dog\" is a nickname for the rapper Calvin Cordozar Broadus Jr., professionally known as Snoop Dogg. He's a prominent figure in hip-hop known for his laid-back style, distinctive voice, and hits like \"Gin and Juice\" and \"Drop It Like It's Hot.\""
+    },
+    "kourtney kardashian": {
+        "count": 1,
+        "description": "\"Kourtney Kardashian\" refers to a member of the Kardashian family, known for their reality TV show and various business ventures."
+    },
+    "lance armstrong": {
+        "count": 1,
+        "description": "'Lance Armstrong' refers to a former professional road racing cyclist widely known for his seven consecutive Tour de France wins, which were later stripped due to doping allegations and his subsequent admission of using performance-enhancing drugs."
+    },
+    "j lo": {
+        "count": 1,
+        "description": "\"J Lo\" refers to Jennifer Lopez, an American singer, actress, and dancer."
+    },
+    "tony hawk": {
+        "count": 1,
+        "description": "\"Tony Hawk\" refers to the professional skateboarder Anthony Hawk, often associated with skateboarding culture and video games."
+    },
+    "a - rod": {
+        "count": 1,
+        "description": "In the context of Twitter, \"A-Rod\" typically refers to Alex Rodriguez, a former professional baseball player. He is a well-known figure in the sports world and often a topic of discussion on social media platforms like Twitter."
+    },
+    "justin": {
+        "count": 2,
+        "description": "'Justin' is a proper noun referring to a given name commonly used for males."
+    },
+    "lenny kravitz": {
+        "count": 1,
+        "description": "'Lenny Kravitz' refers to the American singer, songwriter, and musician named Leonard Albert Kravitz."
+    },
+    "sara bareilles": {
+        "count": 1,
+        "description": "'Sara Bareilles' refers to the American singer-songwriter and pianist, known for her soulful pop music and hits like \"Love Song\" and \"Brave\"."
+    },
+    "arod": {
+        "count": 1,
+        "description": "The term 'arod' is a slang abbreviation for Alex Rodriguez, a former professional baseball player."
+    },
+    "pete wentz": {
+        "count": 1,
+        "description": "'Pete Wentz' refers to the American musician and songwriter, Peter Lewis Kingston Wentz III, best known as the bassist and lyricist for the band Fall Out Boy."
+    }
+}
