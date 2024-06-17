@@ -1,6 +1,4 @@
-## AGCL: Aspect Graph Construction and Learning for Aspect-level Sentiment Classification
-
-### Quick start
+## Quick start
 * Specify the path of [DeBERTa-large](https://huggingface.co/microsoft/deberta-v3-large) in global_var.py
 
 * Run run_agl.py
